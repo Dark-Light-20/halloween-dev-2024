@@ -8,7 +8,8 @@ This repository contains my solutions to **5** challenges proposed by [Midudev](
 
 | Challenge | Title                        | Difficulty | Description                     | Solution                    |
 | --------- | ---------------------------- | ---------- | ------------------------------- | --------------------------- |
-| #1        | 🧙‍♀️ Create the perfect potion | 🟢 Easy    | [Description](challenges/01.md) | [Solution](solutions/01.js) |
+| #01       | 🧙‍♀️ Create the perfect potion | 🟢 Easy    | [Description](challenges/01.md) | [Solution](solutions/01.js) |
+| #02       | 🧟 Zombie horde              | 🟢 Easy    | [Description](challenges/02.md) | [Solution](solutions/02.js) |
 
 ## Installation
 
@@ -19,7 +20,7 @@ To run the solutions, you need to have Node.js installed on your machine. Once y
 Each challenge is contained in its own _instructions_.md file and its own _solution_.js file. You can run a specific challenge by using Node.js to execute the file. For example, to run Challenge 1, you would use the following command:
 
 ```bash
-node solutions/1.js
+node solutions/01.js
 ```
 
 ## Credits

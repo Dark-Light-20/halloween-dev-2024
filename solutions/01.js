@@ -28,7 +28,7 @@ const goal3 = 5;
 console.log(createMagicPotion(potions3, goal3)); // [1, 2]
 
 /* 
-    Candies gained: 330
-    3,911 ops/s (Higher is better)
+    Candies gained: 430
+    4,057 ops/s (Higher is better)
     Cognitive complexity: 5 (Lower is better)
 */
