@@ -6,10 +6,11 @@ This repository contains my solutions to **5** challenges proposed by [Midudev](
 
 ## Challenges list
 
-| Challenge | Title                        | Difficulty | Description                     | Solution                    |
-| --------- | ---------------------------- | ---------- | ------------------------------- | --------------------------- |
-| #01       | 🧙‍♀️ Create the perfect potion | 🟢 Easy    | [Description](challenges/01.md) | [Solution](solutions/01.js) |
-| #02       | 🧟 Zombie horde              | 🟢 Easy    | [Description](challenges/02.md) | [Solution](solutions/02.js) |
+| Challenge | Title                             | Difficulty | Description                     | Solution                    |
+| --------- | --------------------------------- | ---------- | ------------------------------- | --------------------------- |
+| #01       | 🧙‍♀️ Create the perfect potion      | 🟢 Easy    | [Description](challenges/01.md) | [Solution](solutions/01.js) |
+| #02       | 🧟 Zombie horde                   | 🟢 Easy    | [Description](challenges/02.md) | [Solution](solutions/02.js) |
+| #03       | 🛌 Escape from Freddy's nightmare | 🟠 Medium  | [Description](challenges/03.md) | [Solution](solutions/03.js) |
 
 ## Installation
 
