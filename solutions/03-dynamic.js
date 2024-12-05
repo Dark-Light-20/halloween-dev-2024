@@ -35,8 +35,7 @@ const bestPath = findSafestPath(dream); // Returns 7
 console.log(bestPath);
 
 /* 
-    Candies gained: ???
-    ?,??? ops/s (Higher is better)
-    Cognitive complexity: ? (Lower is better)
-    // TODO: There is a problem with the website, can't validate the challenge
+    Candies gained: 280
+    3,594 ops/s (Higher is better)
+    Cognitive complexity: 8 (Lower is better)
 */
