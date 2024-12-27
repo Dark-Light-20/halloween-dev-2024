@@ -12,6 +12,7 @@ This repository contains my solutions to **5** challenges proposed by [Midudev](
 | #02       | 🧟 Zombie horde                   | 🟢 Easy    | [Description](challenges/02.md) | [Solution](solutions/02.js) |
 | #03       | 🛌 Escape from Freddy's nightmare | 🟠 Medium  | [Description](challenges/03.md) | [Solution](solutions/03.js) |
 | #04       | 🔪 Find the killer                | 🟠 Medium  | [Description](challenges/04.md) | [Solution](solutions/04.js) |
+| #05       | ▲ Terror on Pyramid Head          | 🔴 Hard    | [Description](challenges/05.md) | [Solution](solutions/05.js) |
 
 ## Installation
 
